@@ -37,6 +37,7 @@
 
 [result-1550-SMF-PSCF.ipynb](https://github.com/shuvtan/Optovolokno/blob/master/result-1550-SMF-PSCF.ipynb)
 
-[Полный текст статьи](https://github.com/shuvtan/Optovolokno/blob/master/analizator-reflectogram.pdf)
 
-[Страница на MURZILKA2023](https://easychair.org/conferences/submission?a=30846458;submission=6509756)
+**[Полный текст статьи](https://github.com/shuvtan/Optovolokno/blob/master/analizator-reflectogram.pdf)**
+
+**[Страница на MURZILKA2023](https://easychair.org/conferences/submission?a=30846458;submission=6509756)**
