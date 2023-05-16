@@ -23,3 +23,13 @@
 
 *МФТИ, Факультет аэрокосмических технологий, май 2023*
 
+# Структура github
+
+Данные измерений рефлектометра: [data-files](https://github.com/shuvtan/Optovolokno/tree/master/data-files)
+
+Код для решения обратной задачи в формате .py: [cod-py](https://github.com/shuvtan/Optovolokno/tree/master/cod-py)
+
+Пример выполнения решения обратной задачи на файле [1310-SMF-SMF-GNUL4-N6.txt](https://github.com/shuvtan/Optovolokno/blob/master/data-files/1310-SMF-SMF-GNUL4-N6.txt) : [result-gnul-1310-d10-n4.ipynb](https://github.com/shuvtan/Optovolokno/blob/master/result-gnul-1310-d10-n4.ipynb) 
+
+Пример выполнения решения обратной задачи на файле [1550SMF-PSCF.txt]((https://github.com/shuvtan/Optovolokno/blob/master/data-files/1550SMF-PSCF.txt)) : [result-1550-SMF-PSCF.ipynb]((https://github.com/shuvtan/Optovolokno/blob/master/result-1550-SMF-PSCF.ipynb)) 
+
