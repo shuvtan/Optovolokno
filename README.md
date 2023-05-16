@@ -23,11 +23,18 @@
 
 *МФТИ, Факультет аэрокосмических технологий, май 2023*
 
+
+**[Полный текст статьи](https://github.com/shuvtan/Optovolokno/blob/master/analizator-reflectogram.pdf)**
+
+**[Страница на MURZILKA2023](https://easychair.org/conferences/submission?a=30846458;submission=6509756)**
+
+
 # Структура github
 
 Данные измерений рефлектометра: [data-files](https://github.com/shuvtan/Optovolokno/tree/master/data-files)
 
 Код для решения обратной задачи в формате .py: [cod-py](https://github.com/shuvtan/Optovolokno/tree/master/cod-py)
+
 
 Пример выполнения решения обратной задачи на файле [1310-SMF-SMF-GNUL4-N6.txt](https://github.com/shuvtan/Optovolokno/blob/master/data-files/1310-SMF-SMF-GNUL4-N6.txt) :
 
@@ -36,8 +43,3 @@
 Пример выполнения решения обратной задачи на файле [1550SMF-PSCF.txt](https://github.com/shuvtan/Optovolokno/blob/master/data-files/1550SMF-PSCF.txt) :
 
 [result-1550-SMF-PSCF.ipynb](https://github.com/shuvtan/Optovolokno/blob/master/result-1550-SMF-PSCF.ipynb)
-
-
-**[Полный текст статьи](https://github.com/shuvtan/Optovolokno/blob/master/analizator-reflectogram.pdf)**
-
-**[Страница на MURZILKA2023](https://easychair.org/conferences/submission?a=30846458;submission=6509756)**
